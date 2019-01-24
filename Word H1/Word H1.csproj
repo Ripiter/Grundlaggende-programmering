@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alder.cs" />
     <Compile Include="Celciusomregner.cs" />
+    <Compile Include="Gaet  et tal.cs" />
+    <Compile Include="Porto.cs" />
+    <Compile Include="Pythagoras.cs" />
     <Compile Include="Rumfanget.cs" />
+    <Compile Include="Terningkastet.cs" />
     <Compile Include="Valutaomregner.cs" />
     <Compile Include="Variable and DataTyper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
