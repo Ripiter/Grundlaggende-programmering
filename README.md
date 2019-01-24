@@ -10,3 +10,15 @@ x = Done
 [x]Valutaomregner
 
 [x]Rumfanget
+
+[x]Terningkastet
+
+[x]Pythagoras
+
+[x]Alder
+
+[x]Gæt et tal
+
+[]Porto
+
+[]Morsekoden
