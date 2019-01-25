@@ -46,6 +46,7 @@
     <Compile Include="Alder.cs" />
     <Compile Include="Celciusomregner.cs" />
     <Compile Include="Gaet  et tal.cs" />
+    <Compile Include="MorseKoden.cs" />
     <Compile Include="Porto.cs" />
     <Compile Include="Pythagoras.cs" />
     <Compile Include="Rumfanget.cs" />
