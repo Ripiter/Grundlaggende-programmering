@@ -8,8 +8,8 @@ namespace Word_H1
 {
     class Loops
     {
-        public static void Main(string[] args)
-        {
+        //public static void Main(string[] args)
+        //{
             //exercise a
             //for (int i = 0; i < 100; i++) //Runs 99 times
             //{
@@ -32,6 +32,6 @@ namespace Word_H1
             //}
 
             //Console.ReadKey();
-        }
+        //}
     }
 }
