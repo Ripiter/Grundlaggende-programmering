@@ -31,7 +31,7 @@ namespace Word_H1
             //    Console.WriteLine(i); 
             //}
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
