@@ -26,10 +26,10 @@ namespace Word_H1
             //}
 
             //exercise d
-            for (int i = 100; i > -1; i--) //start at 100 stops at 0, if we type 0 insead of -1 it stops at 1
-            {
-                Console.WriteLine(i); 
-            }
+            //for (int i = 100; i > -1; i--) //start at 100 stops at 0, if we type 0 insead of -1 it stops at 1
+            //{
+            //    Console.WriteLine(i); 
+            //}
 
             Console.ReadKey();
         }
