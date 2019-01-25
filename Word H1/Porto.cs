@@ -14,9 +14,9 @@ namespace Word_H1
         //    double Size;
         //    double Weight;
         //    Console.Write("What Country: ");
-        //    string userCountry = Convert.ToString(Console.ReadLine());
-
-        //    Console.Write("Input weight: ");
+        //    string userCountry = Convert.ToString(Console.ReadLine());   //What country user wants to send
+            
+        //    Console.Write("Input weight: ");                             //Gets input of what we are dealing with
         //    Weight = double.Parse(Console.ReadLine());
         //    Console.Write("Input height: ");
         //    double Height = double.Parse(Console.ReadLine());
@@ -25,12 +25,12 @@ namespace Word_H1
         //    Console.Write("Input Width: ");
         //    double Width = double.Parse(Console.ReadLine());
 
-        //    Size = Length + Width + Height;
+        //    Size = Length + Width + Height;                               //Calculates size
         //    GetPrice(userCountry, Weight, Size);
         //    Console.ReadKey();
 
         //}
-        //public static double GetPrice(string country, double weight, double size)
+        //public static double GetPrice(string country, double weight, double size) //In here all calculation takes place
         //{
         //    double priceDanmark = 0;
         //    double priceOutside = 0;

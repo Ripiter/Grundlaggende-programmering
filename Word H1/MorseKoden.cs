@@ -14,7 +14,7 @@ namespace Word_H1
         //    {
         //        Console.Write("Insert tekst you want to translate: ");
         //        string text = Console.ReadLine();
-        //        char[] chararay = text.ToCharArray();
+        //        char[] chararay = text.ToCharArray();  //Converts every character from string to char and makes it a array 
                 
 
 
