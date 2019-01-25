@@ -24,3 +24,15 @@ x = Done
 [x]Morsekoden
 
 [x]Igang med løkker
+
+[]Array 1
+
+[]Arrays
+
+[]Arrays og bubblesort
+
+[]Liste
+
+[]Lotto
+
+[]Mozart
