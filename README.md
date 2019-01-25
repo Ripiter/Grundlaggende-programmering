@@ -19,6 +19,8 @@ x = Done
 
 [x]Gæt et tal
 
-[]Porto
+[x]Porto
 
-[]Morsekoden
+[x]Morsekoden
+
+[x]Igang med løkker
