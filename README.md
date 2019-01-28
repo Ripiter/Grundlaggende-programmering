@@ -19,6 +19,20 @@ x = Done
 
 [x]Gæt et tal
 
-[]Porto
+[x]Porto
 
-[]Morsekoden
+[x]Morsekoden
+
+[x]Igang med løkker
+
+[]Array 1
+
+[]Arrays
+
+[]Arrays og bubblesort
+
+[]Liste
+
+[]Lotto
+
+[]Mozart
