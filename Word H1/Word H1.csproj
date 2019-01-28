@@ -44,9 +44,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Alder.cs" />
+    <Compile Include="ArrayOPG1.cs" />
+    <Compile Include="Array1.cs" />
+    <Compile Include="ArraysBubbleSort.cs" />
+    <Compile Include="ArraysOPG2.cs" />
     <Compile Include="Celciusomregner.cs" />
     <Compile Include="Gaet  et tal.cs" />
+    <Compile Include="liste.cs" />
     <Compile Include="Loops.cs" />
+    <Compile Include="Lotto.cs" />
     <Compile Include="MorseKoden.cs" />
     <Compile Include="Porto.cs" />
     <Compile Include="Pythagoras.cs" />
