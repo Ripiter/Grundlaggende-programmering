@@ -259,3 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Word H1/Metoder.cs
+/Word H1/MetoderTutorial.cs
