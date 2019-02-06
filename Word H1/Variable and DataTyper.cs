@@ -59,7 +59,6 @@ namespace Word_H1
             sqr = MathSqr(numberSqr);                 //User input gets used by MathSqr
             sum = Power(numberFirst, powerBy); //User input gets used by power method
         }
-        
         private static double MathPlus(double a, double b)
         {
             double resultPlus = a + b;
