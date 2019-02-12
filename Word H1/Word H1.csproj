@@ -56,6 +56,7 @@
     <Compile Include="Metoder.cs" />
     <Compile Include="MetoderTutorial.cs" />
     <Compile Include="MorseKoden.cs" />
+    <Compile Include="numberToMilion.cs" />
     <Compile Include="Porto.cs" />
     <Compile Include="Pythagoras.cs" />
     <Compile Include="Rumfanget.cs" />

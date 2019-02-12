@@ -10,8 +10,8 @@ namespace Word_H1
     {
         //public static void Main(string[] args)
         //{
-            
-        //    Random r = new Random(); 
+
+        //    Random r = new Random();
         //    int chance = r.Next(1, 11); //Generates a random number from 1 to 11
         //    byte wrong = 0;             //Counts how many times user was wrong
         //    do
@@ -19,18 +19,19 @@ namespace Word_H1
         //        Console.Write("Guess the number from 1 to 11: ");
         //        byte UserGuess = Convert.ToByte(Console.ReadLine());
 
-        //        if(UserGuess > chance)
+        //        if (UserGuess > chance)
         //        {
         //            Console.WriteLine("Lower");
         //            wrong++;                       //Add 1 to how many times user was wrong
         //            Console.WriteLine("You guest wrong: " + wrong + " time(s)");
-        //        }else if(UserGuess < chance)
+        //        }
+        //        else if (UserGuess < chance)
         //        {
         //            Console.WriteLine("Higher");
         //            wrong++;
         //            Console.WriteLine("You guest wrong: " + wrong + " time(s)");
         //        }
-        //        else if(UserGuess == chance)
+        //        else if (UserGuess == chance)
         //        {
         //            Console.WriteLine("Gj you made it");
         //            Random Rranom = new Random();
