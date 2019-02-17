@@ -25,14 +25,16 @@ x = Done
 
 [x]Igang med løkker
 
-[]Array 1
+[x]Array 1
 
-[]Arrays
+[x]Arrays
 
 []Arrays og bubblesort
 
-[]Liste
+[x]Liste
 
-[]Lotto
+[x]Lotto
 
-[]Mozart
+[]Mozart -Some other day
+
+[x]Metoder
