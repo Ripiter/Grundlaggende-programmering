@@ -8,14 +8,22 @@ namespace Word_H1
 {
     class Alder
     {
+        //public static byte age;
+        //public static string name;
         //public static void Main(string[] args)
         //{
         //    Console.Write("Insert name: ");  //Gets name of the user
-        //    string name = Console.ReadLine();
+        //    name = Console.ReadLine();
         //    Console.Write("Insert age: ");   //Gets age of the user
-        //    byte age = Convert.ToByte(Console.ReadLine());
+        //    age = Convert.ToByte(Console.ReadLine());
 
-        //    if (age < 3) 
+        //    IfStatements();
+
+        //    Console.ReadKey();
+        //}
+        //static void IfStatements()
+        //{
+        //    if (age < 3)
         //    {
         //        Console.WriteLine(name + ", du må gå med ble");
         //    }
@@ -31,7 +39,6 @@ namespace Word_H1
         //    {
         //        Console.WriteLine(name + ", du må stemme og køre bil");
         //    }
-        //    Console.ReadKey();
         //}
     }
 }
