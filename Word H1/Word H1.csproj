@@ -53,8 +53,8 @@
     <Compile Include="liste.cs" />
     <Compile Include="Loops.cs" />
     <Compile Include="Lotto.cs" />
-    <Compile Include="Metoder.cs" />
-    <Compile Include="MetoderTutorial.cs" />
+    <Compile Include="Metoderr.cs" />
+    <Compile Include="MetoderTutoriaal.cs" />
     <Compile Include="MorseKoden.cs" />
     <Compile Include="numberToMilion.cs" />
     <Compile Include="Porto.cs" />
