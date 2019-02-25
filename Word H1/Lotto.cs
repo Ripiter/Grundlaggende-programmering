@@ -37,7 +37,8 @@ namespace Word_H1
 
         //    Console.WriteLine("You won: " + win + " time(s)");
 
-        //    switch (win) {
+        //    switch (win)
+        //    {
         //        case 1:
         //            Console.WriteLine("You didnt win anything");
         //            break;
@@ -66,5 +67,6 @@ namespace Word_H1
         //    }
         //    Console.ReadLine();
         //}
+
     }
 }

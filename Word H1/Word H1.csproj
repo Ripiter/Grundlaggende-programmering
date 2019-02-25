@@ -53,6 +53,7 @@
     <Compile Include="liste.cs" />
     <Compile Include="Loops.cs" />
     <Compile Include="Lotto.cs" />
+    <Compile Include="MethodLoop.cs" />
     <Compile Include="Metoderr.cs" />
     <Compile Include="MetoderTutoriaal.cs" />
     <Compile Include="MorseKoden.cs" />

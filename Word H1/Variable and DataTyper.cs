@@ -22,7 +22,6 @@ namespace Word_H1
         //public static double sqr;
         //public static double sum;
         //#endregion
-
         //    public static void Main(string[] args)
         //    {
         //        Console.WriteLine("Number 1 is minused with number 2");
